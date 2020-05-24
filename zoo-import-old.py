@@ -154,7 +154,7 @@ if __name__ == "__main__":
     ]
 
     # A bunch of stuff to make the connection to the database work.
-    engine = create_engine('sqlite:///zoo.db', echo=False)
+    engine = create_engine('sqlite:///zoo2.db', echo=False)
     Base.metadata.create_all(engine)
     Session = sessionmaker(bind=engine)
     session = Session()

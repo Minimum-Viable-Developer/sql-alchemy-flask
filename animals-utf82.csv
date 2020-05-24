@@ -1,0 +1,598 @@
+species,common_name
+Zonotrichia albicollis,White-Throated Sparrow
+Zenaida macroura,Mourning Dove
+Zenaida asiatica,White-Winged Dove
+Zapus hudsonius,Meadow Jumping Mouse
+Zalophus californianus,California Sea Lion
+Vulpes vulpes,Red Fox
+Vireo plumbeus,Plumbeus Vireo
+Vireo olivaceus,Red-Eyed Vireo
+Vireo griseus,White-Eyed Vireo
+Vermivora celata,Orange-Crowned Warbler
+Ursus maritimus,Polar Bear
+Urocyon cinereoargenteus,Gray Fox
+Uria lomvia,Thick-Billed Murre
+Uria aalge,Common Murre
+Tyto alba,Barn Owl
+Tympanuchus cupido attwateri,Attwater’s Greater Prarie Chicken
+Turdus migratorius,American Robin
+Troglodytes aedon,House Wren
+Tringa solitaria,Solitary Sandpiper
+Tringa melanoleuca,Greater Yellowlegs
+Tringa flavipes,Lesser Yellowlegs
+Trachemys scripta,Common Slider
+Toxostoma rufum,Brown Thrasher
+Thryothorus ludovici,Carolina Wren
+Thamnophis sirtalis,Garter Snake
+Thamnophis sauritus,Ribbon Snake
+Thamnophis proximus,Western Ribbon Snake
+Terrapene carolina,Eastern Box Turtle
+Tamiasciurus hudsonicus,Red Squirrel
+Tamias striatus,Eastern Chipmunk
+Tachycineta thalassina,Violet-Green Swallow
+Tachycineta bicolor,Tree Swallow
+Synthiloboramphus antiquus,Ancient Murrelet
+Sylvilagus palustris,Marsh Rabbit
+Sylvilagus floridanus,Cottontail Rabbit
+Sula sula,Red-Footed Booby
+Sula bassanus,Northern Gannet
+Sturnus vulgaris,European Starling
+Sturnella neglecta,Western Meadowlark
+Sturnella magna,Eastern Meadowlark
+Strix varia,Barred Owl
+Sternotherus odoratus,Stinkpot
+Sternotherus minor minor,Loggerhead Musk Turtle
+Sterna sandvicensis,Sandwich Tern
+Sterna paradisaea,Arctic Tern
+Sterna nilotica,Gull-Billed Tern
+Sterna maxima,Royal Tern
+Sterna lunata,Gray-Backed Tern
+Sterna hirundo,Common Tern
+Sterna fuscata,Sooty Tern
+Sterna forsteri,Forster's Tern
+Sterna elegans,Elegant Tern
+Sterna dougallii,Roseate Tern
+Sterna caspia,Caspian Tern
+Sterna antillarum browni,California Least Tern
+Sterna anaethetus,Bridled Tern
+Sterna aleutica,Aleutian Tern
+Sterna albifrons,Least Tern
+Stercorarius pomarinus,Pomarine Jaeger
+Stercorarius parasiticus,Parasitic Jaeger
+Stercorarius longicaudus,Long-Tailed Jaeger
+Spizella passerina,Chipping Sparrow
+Spizella arborea,American Tree Sparrow
+Spiza americana,Dickcissel
+Spermophilus undulatus,Arctic Ground Squirrel
+Spermophilus tridecemlin,Thirteen-Lined Ground Squirrel
+Spermophilus beecheyi,California Ground Squirrel
+Sorex trowbridgii,Trowbridge’s Shrew
+Sorex ornatus,Ornate Shrew
+Sorex cinereus,Common Shrew
+Sorex arcticus,Arctic Shrew
+Somateria spectabilis,King Eider
+Somateria mollissima,Common Eider
+Somateria fischeri,Spectacled Eider
+Sitta pusilla,Brown-Headed Nuthatch
+Sigmodon hispidus,Hispid Cotton Rat
+Sialia sialis,Eastern Bluebird
+Setophaga ruticilla,American Redstart
+Seiurus noveboracensis,Northern Waterthrush
+Seiurus aurocapillus,Ovenbird
+Scolopax minor,American Woodcock
+Sciurus niger,Fox Squirrel
+Sciurus carolinensis,Gray Squirrel
+Sceloporus undulatus undulatus,Southern Fence Lizard
+Scaphiopus holbrookii,Eastern Spadefoot Toad
+Sayornis phoebe,Eastern Phoebe
+Rynchops niger,Black Skimmer
+Rostrhamus sociabilis,Snail Kite
+Rissa tridactyla,Black-Legged Kittiwake
+Reithrodontomys megalot,Western Harvest Mouse
+Reithrodontomys humulis,Eastern Harvest Mouse
+Recurvirostra americana,American Avocet
+Rattus rattus,House Rat
+Rattus norvegicus,Norway Rat
+Rattus exulans,Polynesian Rat
+Rana sphenocephala,Southern Leopard Frog
+Rana pipiens,Northern Leopard Frog
+Rana heckscheri,River Frog
+Rana grylio,Pig Frog
+Rana clamitans,Green Frog
+Rana catesbeiana,Bullfrog
+Rana capito,Gopher Frog
+Rallus longirostris obsoletus,California Clapper Rail
+Rallus longirostris,Clapper Rail
+Rallus limicola,Virginia Rail
+Rallus elegans,King Rail
+Quiscalus quiscula,Common Grackle
+Quiscalus mexicanus,Great-Tailed Grackle
+Quiscalus major,Boat-Tailed Grackle
+Puffinus tenuirostris,Short-Tailed Shearwater
+Puffinus pacificus,Wedge-Tailed Shearwater
+Puffinus nativitatis,Christmas Shearwater
+Puffinus griseus,Sooty Shearwater
+Ptychoramphus aleuticus,Cassin’s Auklet
+Pterodroma inexpectata,Mottled Petrel
+Pterodroma hypoleuca,Bonin Petrel
+Pseudemys scripta elegans,Red-Eared Slider
+Pseudemys rubriventris,American Red-bellied Turtle
+Pseudemys peninsularis,Peninsula Cooter
+Pseudemys nelsoni,Florida Red-Bellied Turtle
+Pseudemys concinna suwanniensis,Suwannee River Cooter
+Pseudemys concinna floridana,Missouri Cooter
+Pseudemys concinna,River Cooter
+Protonotaria citrea,Prothonotary Warbler
+Progne subis,Purple Martin
+Procyon lotor,Raccoon
+Porzana carolina,Sora
+Porphyrio martinica,Purple Gallinule
+Polysticta stelleri,Stelle’s Eider
+Polyborus plancus,Crested Caracara
+Poecile carolinensis,Carolina Chickadee
+Poecile atricapillus,Black-Capped Chickadee
+Podilymbus podiceps,Pied-Billed Grebe
+Podiceps nigricollis,Eared Grebe
+Podiceps grisegena,Red-Necked Grebe
+Podiceps auritus,Horned Grebe
+Pluvialis squatarola,Black-Bellied Plover
+Pluvialis fulva,Pacific Golden-Plover
+Pluvialis dominica,Lesser Golden-Plover
+Plegadis falcinellus,Glossy Ibis
+Plegadis chihi,White-Faced Ibis
+Plectrophenax nivalis,Snow Bunting
+Platalea ajaja,Roseate Spoonbill
+Pituophis melanoleucus,Pine Snake
+Piranga rubra,Summer Tanager
+Piranga olivacea,Scarlet Tanager
+Pipilo erythrophthalmus,Eastern Towhee
+Picoides borealis,Red-Cockaded Woodpecker
+Pica pica,Black-Billed Magpie
+Pica nuttalli,Yellow-Billed Magpie
+Phoebastria nigripes,Black-Footed Albatross
+Phoebastria immutabilis,Laysan Albatross
+Phoca vitulina,Harbor Seal
+Phoca largha,Spotted Seal
+Phoca hispida,Ringed Seal
+Pheucticus melanocephalus,Black-Headed Grosbeak
+Phasianus colchicus,Ring-Necked Pheasant
+Phalaropus lobatus,Red-Necked Phalarope
+Phalaropus fulicarius,Red Phalarope
+Phalacrocorax urile,Red-Faced Cormorant
+Phalacrocorax penicillatus,Brandt’s Cormorant
+Phalacrocorax pelagicus,Pelagic Cormorant
+Phalacrocorax olivaceus,Olivaceous Cormorant
+Phalacrocorax carbo,Great Cormorant
+Phalacrocorax brasilianus,Neotropic Cormorant
+Phalacrocorax auritus,Double-Crested Cormorant
+Phaethon rubricauda,Red-Tailed Tropicbird
+Petrochelidon pyrrhonota,Cliff Swallow
+Petrochelidon fulva,Cave Swallow
+Peromyscus maniculatus,Deer Mouse
+Peromyscus leucopus,White-Footed Mouse
+Pelecanus occidentalis,Brown Pelican
+Pelecanus erythrorhynchos,American White Pelican
+Passerina cyanea,Indigo Bunting
+Passerella iliaca,Fox Sparrow
+Passerculus sandwichensis,Savannah Sparrow
+Passer domesticus,House Sparrow
+Pandion haliaetus,Osprey
+Oxyura jamaicensis,Ruddy Duck
+Otus asio,Eastern Screech-Owl
+Oryzomys palustris,Marsh Rice Rat
+Ondatra zibethicus,Muskrat
+Olor columbianus,Tundra Swan
+Odocoileus virginianus,White-Tailed Deer
+Odocoileus hemionus,Mule Deer
+Odobenus rosmarus divergens,Pacific Walrus
+Oceanodroma leucorhoa,Leach’s Storm-Petrel
+Oceanodroma homochroa,Ashy Storm-Petrel
+Oceanodroma furcata,Fork-Tailed Storm-Petrel
+Nycticorax violaceus,Yellow-Crowned Night-Heron
+Nycticorax nycticorax,Black-Crowned Night-Heron
+Nycticeius humeralis,Evening Bat
+Nyctea scandiaca,Snowy Owl
+Numenius tahitiensis,Bristle-Thighed Curlew
+Numenius phaeopus,Whimbrel
+Numenius americanus,Long-Billed Curlew
+Neurotrichus gibbsii,Shrew Mole
+Nerodia taxispilota,Brown Water Snake
+Nerodia sipedon insularum,Lake Erie Water Snake
+Nerodia sipedon,Northern Water Snake
+Nerodia rhombifera,Diamondback Water Snake
+Nerodia fasciata confluens,Broad-Banded Water Snake
+Nerodia fasciata,Banded Water Snake
+Nerodia erythrogaster flavigas,Yellowbelly Water Snake
+Nerodia erythrogaster,Blotched Water Snake
+Nerodia cyclopion,Green Water Snake
+Myotis lucifugus,Little Brown Bat
+Mycteria americana,Wood Stork
+Mustela vison,Mink
+Mustela frenata,Long-Tailed Weasel
+Mus musculus,House Mouse
+Molothrus ater,Brown-Headed Cowbird
+Mniotilta varia,Black-and-White Warbler
+Mirounga angustirostris,Northern Elephant Seal
+Mimus polyglottos,Northern Mockingbird
+Microtus pennsylvanicus,Meadow Vole
+Microtus ochrogaster,Prairie Vole
+Microtus californicus,California Vole
+Mergus serrator,Red-Breasted Merganser
+Mergus merganser,Common Merganser
+Mephitis mephitis,Striped Skunk
+Melospiza melodia,Song Sparrow
+Melospiza lincolnii,Lincoln 's Sparrow
+Melospiza georgiana,Swamp Sparrow
+Meleagris gallopavo,Turkey
+Melanitta perspicillata,Surf Scoter
+Melanitta nigra,Black Scoter
+Melanitta fusca,White-Winged Scoter
+Melanerpes formicivorus,Acorn Woodpecker
+Melanerpes erythrocephalus,Red-Headed Woodpecker
+Melanerpes carolinus,Red-Bellied Woodpecker
+Megaceryle alcyon,Belted Kingfisher
+Martes pennanti,Fisher
+Martes americana,Marten
+Marmota monax,Woodchuck
+Malaclemys terrapin,Diamondback Terrapin
+Lynx rufus,Bobcat
+Loxia leucoptera,White-Winged Crossbill
+Lophodytes cucullatus,Hooded Merganser
+Lontra canadensis,North American River Otter
+Limosa fedoa,Marbled Godwit
+Limnodromus scolopaceus,Long-Billed Dowitcher
+Limnodromus griseus,Short-Billed Dowitcher
+Leucosticte tephrocotis,Gray-Crowned Rosy Finch
+Lepus californicus,Black-Tailed Jackrabbit
+Lepus americanus,Snowshoe Hare
+Lepidochelys kempi,Kemp's Ridley Sea Turtle
+Leopardus pardalis,Ocelot
+Lasiurus borealis,Eastern Red Bat
+Larus pipixcan,Franklin ’s Gull
+Larus philadelphia,Bonaparte's Gull
+Larus occidentalis,Western Gull
+Larus minutus,Little Gull
+Larus marinus,Great Black-Backed Gull
+Larus heermanni,Heermann’s Gull
+Larus glaucescens,Glaucous-Winged Gull
+Larus delawarensis,Ring-Billed Gull
+Larus canus,Mew Gull
+Larus californicus,California Gull
+Larus atricilla,Laughing Gull
+Larus argentatus,Herring Gull
+Lanius ludovicianus,Loggerhead Shrike
+Lagopus mutus,Rock Ptarmigan
+Lagopus lagopus,Willow Ptarmigan
+Kinosternon subrubrum,Mud Turtle
+Kinosternon flavescens,Yellow Mud Turtle
+Kinosternon baurii,Striped Mud Turtle
+Junco hyemalis,Dark-Eyed Junco
+Ixoreus naevius,Varied Thrush
+Ixobrychus exilis,Least Bittern
+Icterus galbula,Baltimore Oriole
+Hyla cinerea,Green Treefrog
+Hyla andersonii,Pine Barrens Treefrog
+Histriophoca fasciata,Ribbon Seal
+Histrionicus histrionicus,Harlequin Duck
+Hirundo rustica,Barn Swallow
+Hirundapus caudacatus,Spinetail Swift
+Himantopus mexicanus,Black-Necked Stilt
+Heteroscelus incanus,Wandering Tattler
+Herpestes javanicus,Javan Mongoose
+Haliaeetus leucocephalus,Bald Eagle
+Haematopus palliatus,American Oystercatcher
+Haematopus bachmani,Black Oystercatcher
+Gymnogyps californianus,California Condor
+Gygis alba,White Tern
+Guiraca caerulea,Blue Grosbeak
+Grus canadensis pulla,Mississippi Sandhill Crane
+Grus canadensis,Sandhill Crane
+Graptemys geographica, 
+Graptemys flavimaculata,Yellow-Blotched Map Turtle (Sawback Turtle)
+Gopherus polyphemus,Gopher Tortoise
+Geothlypis trichas,Common Yellowthroat
+Geopelia striata,Zebra Dove
+Gavia stellata,Red-Throated Loon
+Gavia pacifica,Pacific Loon
+Gavia immer,Common Loon
+Gavia arctica,Arctic Loon
+Gastrophryne carolinensis,Eastern Narrow-Mouthed Toad
+Gallinula chloropus,Common Moorhen
+Fulmarus glacialis,Northern Fulmar
+Fulica americana,American Coot
+Fregata minor,Great Frigatebird
+Fratercula corniculata,Horned Puffin
+Fratercula cirrhata,Tufted Puffin
+Felis concolor coryi,Florida Panther
+Falco sparverius,American Kestrel
+Falco rusticolus,Gyrfalcon
+Falco peregrinus,Peregrine Falcon
+Falco mexicanus,Prairie Falcon
+Falco femoralis,Aplomado Falcon
+Falco columbarius,Merlin
+Eurycea bislineata,Northern Two-lined Salamander
+Euphagus carolinus,Rusty Blackbird
+Eumetopias jubatus,Steller's Sea Lion
+Eudocimus albus,White Ibis
+Erignathus barbatus,Bearded Seal
+Eptesicus fuscus,Big Brown Bat
+Enhydra lutris,Sea Otter
+Emydiodea blandingi,Blanding’s Turtle
+Elanus leucurus,White-Tailed Kite
+Elanoides forficatus,American Swallow-Tailed Kite
+Egretta tricolor,Tricolored Heron
+Egretta thula,Snowy Egret
+Egretta rufescens,Reddish Egret
+Egretta caerulea,Little Blue Heron
+Dumetella carolinensis,Gray Catbird
+Dryocopus pileatus,Pileated Woodpecker
+Dolichonyx oryzivorus,Bobolink
+Dipodomys stephensi,Stephens’ Kangaroo Rat
+Didelphis virginiana,Opossum
+Dermochelys coriacea,Leatherback Sea Turtle
+Dendroica striata,Blackpoll Warbler
+Dendroica pinus,Pine Warbler
+Dendroica palmarum,Palm Warbler
+Dendroica coronata,Yellow-Rumped Warbler
+Dendroica castanea,Bay-Breasted Warbler
+Dendroica caerulescens,Black-Throated Blue Warbler
+Dendrocygna bicolor,Fulvous Whistling-Duck
+Dendrocygna autumnalis,Black-Bellied Whistling-Duck
+Deirochelys reticularia,Chicken Turtle
+Dasypus novemcinctus,Nine-Banded Armadillo
+Cygnus olor,Mute Swan
+Cygnus columbianus,Tundra Swan
+Cygnus buccinator,Trumpeter Swan
+Cyanocorax yncas,Green Jay
+Cyanocitta stelleri,Steller’s Jay
+Cyanocitta cristata,Blue Jay
+Cuculus canorus,Common Cuckoo
+Cryptotis parva,Least Shrew
+Crotalus horridus,Timber Rattlesnake
+Crocodylus acutus,American Crocodile
+Corvus ossifragus,Fish Crow
+Corvus corax,Common Raven
+Corvus caurinus,Northwestern Crow
+Corvus brachyrhynchos,American Crow
+Coragyps atratus,Black Vulture
+Columbina passerina,Common Ground Dove
+Columba livia,Rock Dove
+Coluber constrictor,Black-Masked Racer
+Colinus virginianus,Northern Bobwhite
+Colaptes auratus,Common Flicker
+Coccyzus erythropthalmus,Black-Billed Cuckoo
+Coccyzus americanus,Yellow-Billed Cuckoo
+Cnemidophorus sexlineatus,Six-Lined Racerunner
+Cnemidophorus gularis,Texas Spotted Whiptail
+Clangula hyemalis,Oldsquaw
+Cistothorus palustris,Marsh Wren
+Circus cyaneus,Northern Harrier
+Chrysemys picta picta,Eastern Painted Turtle
+Chrysemys picta,Painted Turtle
+Chlidonias niger,Black Tern
+Chen canagica,Emporer Goose
+Chen caerulescens,Snow Goose
+Chelydra serpentina,Snapping Turtle
+Chelonia mydas,Common Green Sea Turtle
+Charadrius vociferus,Killdeer
+Charadrius semipalmatus,Semipalmated Plover
+Charadrius melodus,Piping Plover
+Charadrius alexandrinus nivosus,Western Snowy Plover
+Charadrius alexandrinus,Snowy Plover
+Cervus elaphus,Elk
+Cerorhinca monocerata,Rhinoceros Auklet
+Cepphus columba,Pigeon Guillemot
+Catoptrophorus semipalmatus,Willet
+Catharus ustulatus,Swainson’s Thrush
+Catharus guttatus,Hermit Thrush
+Catharus bicknelli,Bicknell's Thrush
+Cathartes aura,Turkey Vulture
+Castor Canadensis,Beaver
+Carpodacus mexicanus,House Finch
+Carpodacus mexicanus,House Finch
+Caretta caretta,Loggerhead Turtle
+Carduelis tristis,American Goldfinch
+Cardinalis cardinalis,Northern Cardinal
+Canis latrans,Coyote
+Callorhinus ursinus,Northern Fur Seal
+Callipepla californica,California Quail
+Calidris pusilla,Semipalmated Sandpiper
+Calidris ptilocnemis,Rock Sandpiper
+Calidris minutilla,Least Sandpiper
+Calidris melanotos,Pectoral Sandpiper
+Calidris mauri,Western Sandpiper
+Calidris canutus,Red Knot
+Calidris alpina,Dunlin
+Calidris alba,Sanderling
+Calcarius lapponicus,Lapland Longspur
+Cairina moschata,Muscovy
+Butorides virescens,Green Heron
+Buteo swainsoni,Swainson’s Hawk
+Buteo platypterus,Broad-Winged Hawk
+Buteo lineatus,Red-Shouldered Hawk
+Buteo lagopus,Rough-Legged Hawk
+Buteo jamaicensis,Red-Tailed Hawk
+Bufo terrestris,Southern Toad
+Bufo quercicus,Oak Toad
+Bucephala islandica,Barrow’s Goldeneye
+Bucephala clangula,Common Goldeneye
+Bucephala albeola,Bufflehead
+Bubulcus ibis,Cattle Egret
+Bubo virginianus,Great Horned Owl
+Branta Canadensis leucopareia,Aleutian Canada Goose
+Branta canadensis,Canada Goose
+Branta bernicla,American Brant
+Brachyramphus marmoratus,Marbled Murrelet
+Brachyramphus brevirostris,Kittlitz's Murrelet
+Botaurus lentiginosus,American Bittern
+Bonasa umbellus,Ruffed Grouse
+Bombycilla cedrorum,Cedar Waxwing
+Blarina brevicauda,Short-Tailed Shrew
+Bartramia ostralegus,Upland Sandpiper
+Aythya valisineria,Canvasback Duck
+Aythya marila,Greater Scaup
+Aythya collaris,Ring-Necked Duck
+Aythya americana,Redhead
+Aythya affinis,Lesser Scaup
+Athene cunicularia,Burrowing Owl
+Asio otus,Long-Eared Owl
+Asio flammeus,Short-Eared Owl
+Arenaria melanocephala,Black Turnstone
+Arenaria interpres,Ruddy Turnstone
+Ardea herodias occidentalis,Great White Heron
+Ardea herodias,Great Blue Heron
+Ardea albus,Great Egret
+Aquila chrysaetos,Golden Eagle
+Aphriza virgata,Surfbird
+Aphelocoma coerulescens,Florida Scrub-Jay
+Apalone spinifera,Spiny Softshell Turtle
+Apalone ferox,Florida Soft-Shelled Turtle
+Anthus spinoletta,Water Pipit
+Anser fabalis,Bean Goose
+Anser caerulescens,Blue Goose
+Anser anser,Greylag Goose
+Anser albifrons frontalis,Greater White-Fronted Goose
+Anser albifrons,White-Fronted Goose
+Anous stolidus,Brown Noddy
+Anhinga anhinga,Anhinga
+Anas strepera,Gadwall
+Anas sp.,Mallard/black hybrid
+Anas rubripes & platyrhynchos,Black Duck & Mallard
+Anas rubripes,Black Duck
+Anas platyrhynchos domesticus,White Pekin
+Anas platyrhynchos,Mallard
+Anas platyrhynchos,Mallard & White Pekin
+Anas platyrhynchos,Mallard hybrid
+Anas fulvigula,Mottled Duck
+Anas discors,Blue-Winged Teal
+Anas cyanoptera,Cinnamon Teal
+Anas crecca,Green-Winged Teal
+Anas clypeata,Northern Shoveler
+Anas americana,American Wigeon
+Anas acuta,Northern Pintail
+Ammodramus savannarum,Grasshopper Sparrow
+Ammodramus nelsoni,Nelson's Sharp-Tailed Sparrow
+Ammodramus maritimus,Seaside Sparrow
+Ammodramus caudacutus,Saltmarsh Sharp-Tailed Sparrow
+Ambystoma maculatum,Spotted Salamander
+Alligator mississippiensis,American Alligator
+Alle alle,Dovekie
+Alces alces,Moose
+Alca torda,Razorbill
+Aix sponsa,Wood Duck
+Aimophila aestivalis,Bachman’s Sparrow
+Agkistrodon piscivorus,Cottonmouth
+Agelaius tricolor,Tricolored Blackbird
+Agelaius phoeniceus,Red-Winged Blackbird
+Aethia pygmaea,Whiskered Auklet
+Aethia pusilla,Least Auklet
+Aethia psittacula,Parakeet Auklet
+Aethia cristatella,Crested Auklet
+Aegolius acadicus,Northern Saw-whet Owl
+Aechmophorus occidentalis,Western Grebe
+Aechmophorus clarkii,Clark's Grebe
+Actitis macularia,Spotted Sandpiper
+Acris crepitans blanchardi,Blanchard’s Cricket Frog
+Acris crepitans,Northern Cricket Frog
+Acridotheres tristis,Common Myna
+Accipiter striatus,Sharp-Shinned Hawk
+Accipiter gentiles,Northern Goshawk
+Accipiter cooperii,Cooper's Hawk
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+ , 
+, 
+, 
+, 
+, 
+, 
+, 
+, 
+, 
+, 

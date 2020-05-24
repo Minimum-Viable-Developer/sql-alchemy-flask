@@ -70,13 +70,6 @@ def db_connect():
     return Session()
 
 
-@app.route('/')
-def show_all():
-    return render_template('show_all.html',
-        todos=Todo.query.all()
-    )
-
-
 @app.route('/genus/<search_term>', methods=['GET'])
 def get_genus(search_term):
     if request.method == 'GET':
@@ -189,31 +182,6 @@ def show_json():
         print(row_dict)
         return_list.append(row_dict)
     return jsonify(return_list)
-
-
-@app.route('/new', methods=['GET', 'POST'])
-def new():
-    if request.method == 'POST':
-        if not request.form['title']:
-            flash('Title is required', 'error')
-        elif not request.form['text']:
-            flash('Text is required', 'error')
-        else:
-            todo = Todo(request.form['title'], request.form['text'])
-            db.session.add(todo)
-            db.session.commit()
-            flash(u'Todo item was successfully created')
-            return redirect(url_for('show_all'))
-    return render_template('new.html')
-
-
-@app.route('/update', methods=['POST'])
-def update_done():
-    for todo in Todo.query.all():
-        todo.done = ('done.%d' % todo.id) in request.form
-    flash('Updated status')
-    db.session.commit()
-    return redirect(url_for('show_all'))
 
 
 if __name__ == '__main__':
